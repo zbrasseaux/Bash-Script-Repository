@@ -10,4 +10,16 @@
 
 # MAC Address Finder
 
-** The purpose of this script is pretty self-explan
+** Titled "get_mac.sh".
+
+** The purpose of this script is pretty self-explanitory.
+
+** Retreaves MAC adress for your primary wireless card and echo's it as a single line.
+
+# Text to XML Converter
+
+** Titled "txt2xml.sh".
+
+** Converts text files into HTML, and then to XML, then saves it as a file with the .xml extension.
+
+** Creates a directory for the text files and then moves said text files into the directory.

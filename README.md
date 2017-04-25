@@ -28,6 +28,8 @@
 
 # Aliases
 
-**Titled .bash_aliases
+**Titled ".bash_aliases".
 
-**A list of the common aliases that I use on a daily basis
+**A list of the common aliases that I use on a daily basis.
+
+**To use these, save this file with this same name in your Home (~) Directory.

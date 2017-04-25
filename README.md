@@ -26,7 +26,7 @@
 
 ---------------------------------------------
 
-#Aliases
+# Aliases
 
 **Titles .bash_aliases
 

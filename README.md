@@ -23,3 +23,11 @@
 ** Converts text files into HTML, and then to XML, then saves it as a file with the .xml extension.
 
 ** Creates a directory for the text files and then moves said text files into the directory.
+
+---------------------------------------------
+
+#Aliases
+
+**Titles .bash_aliases
+
+**A list of the common aliases that I use on a daily basis

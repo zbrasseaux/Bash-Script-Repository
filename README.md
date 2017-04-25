@@ -28,6 +28,6 @@
 
 # Aliases
 
-**Titles .bash_aliases
+**Titled .bash_aliases
 
 **A list of the common aliases that I use on a daily basis

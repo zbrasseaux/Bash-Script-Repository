@@ -24,12 +24,14 @@
 
 ** Creates a directory for the text files and then moves said text files into the directory.
 
+** Credit for this one actually goes to sgzUk74r3T3BCGmRJ from the Linus Tech Tips Forum.
+
 ---------------------------------------------
 
 # Aliases
 
-**Titled ".bash_aliases".
+** Titled ".bash_aliases".
 
-**A list of the common aliases that I use on a daily basis.
+** A list of the common aliases that I use on a daily basis.
 
-**To use these, save this file with this same name in your Home (~) Directory.
+** To use these, save this file with this same name in your Home (~) Directory.

@@ -35,3 +35,15 @@
 ** A list of the common aliases that I use on a daily basis.
 
 ** To use these, save this file with this same name in your Home (~) Directory.
+
+----------------------------------------------
+
+# Compile ".java" files to ".jar"
+
+** Titled "makejar.sh"
+
+** Creates directory "./build"
+
+** Compiles "*.java" to class files in "./build" directory
+
+** Moves into "./build" directory and compiles all class files in the directory to a ".jar" file called "versionx.jar"

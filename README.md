@@ -26,6 +26,16 @@
 
 ** Credit for this one actually goes to sgzUk74r3T3BCGmRJ from the Linus Tech Tips Forum.
 
+# Compile ".java" files to ".jar"
+
+** Titled "makejar.sh"
+
+** Creates directory "./build"
+
+** Compiles "*.java" to class files in "./build" directory
+
+** Moves into "./build" directory and compiles all class files in the directory to a ".jar" file called "versionx.jar"
+
 ---------------------------------------------
 
 # Aliases
@@ -36,14 +46,3 @@
 
 ** To use these, save this file with this same name in your Home (~) Directory.
 
-----------------------------------------------
-
-# Compile ".java" files to ".jar"
-
-** Titled "makejar.sh"
-
-** Creates directory "./build"
-
-** Compiles "*.java" to class files in "./build" directory
-
-** Moves into "./build" directory and compiles all class files in the directory to a ".jar" file called "versionx.jar"

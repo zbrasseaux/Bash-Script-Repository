@@ -4,7 +4,7 @@
 
 ** They are pretty basic, but maybe someone will find these useful.
 
-** All of the scripts (unless otherwise stated) are for the Linux Terminal, in Linux Mint 18.01 (Cinnamon).
+** All of the scripts (unless otherwise stated) have only been tested in gnome-terminal, in Linux Mint 18.02 (Cinnamon).
 
 -------------------------------------------
 
